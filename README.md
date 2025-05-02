@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
-# Name : Suman 
-# Reg No : 212223240163
-# Date : 29/04/2025
+# Name : HASMITHA V NANCY
+# Reg No : 212224040111
+# Date : 02/05/2025
 
 # Aim : 
 
@@ -75,12 +75,8 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 # Output :
-```
-9 8 7 6 5 4 3 2 1
-The Mean arrival rate is 5.000 
-The Variance of arrival from feeder is 6.667 
-The Standard deviation of arrival from feeder is 2.582
-```
+![Screenshot 2025-05-02 134748](https://github.com/user-attachments/assets/829ad695-d61f-48ed-9337-43e0867c08bb)
+
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
