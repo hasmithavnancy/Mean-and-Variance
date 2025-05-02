@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
 # Name : HASMITHA V NANCY
 # Reg No : 212224040111
-# Date : 02/05/2025
+
 
 # Aim : 
 
